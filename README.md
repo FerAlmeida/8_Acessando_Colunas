@@ -1,2 +1,2 @@
-# 8_Acessando_Colunas
- Acesso as Colunas com PANDAS
+# 6_Carregando_Dados_parte2
+ Carregando dados com Pandas
